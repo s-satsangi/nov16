@@ -23,11 +23,21 @@ function isPalindrome (string)
 //stitch it back into a string
 
 
-// - A function that capitalizes the first letter of every "word" in a dting
+// - A function that capitalizes the first letter of every "word" in a string
+// function take in a string
+// split strings split(' ')
+//lowercase each string .lowercase
+//uppercase the first letter of string .chartAt(0) 
+//lowercase remaining letters .substring
 
 
-// - A function that returns an object with a key for each letter in a string,
-//   and the quantity of that character as that key's value
+
+- A function that returns an object with a key for each letter in a string, and the quantity of that character as that key's value
+//take in string
+//cut up the string
+//count each character and how many times a character occurs
+//return the key and count
+
 
 
 // - A function that console logs the numbers
@@ -35,3 +45,10 @@ function isPalindrome (string)
 //   "fizz" instead of the number and for the multiples
 //   of five print "buzz". For numbers which are multiples
 //   of both three and five print "fizzbuzz".
+
+
+//function that counts-- while loop(countup= 0)
+//console logs each number (countup++)
+//if number is multiple of 3 console log "fizz" if if countup % 3 == 0 
+//if number is multiple of 5 console log "buzz" if countup % 5 == 0 
+//if number is multiple of both 3 and 5 "fizzbuzz" 
