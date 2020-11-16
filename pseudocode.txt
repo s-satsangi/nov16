@@ -1,0 +1,37 @@
+//pseudocode
+- A function that divides a string into individual elements in an array "aabb" => ["a","a","b","b"]
+
+function splitter (string)
+//maybe a for loop?
+//split at every character ==> split()
+//push character into array
+//return array of single characters
+
+// - A function that determines if a given string is a palindrome
+aha									2.5					2.5      5
+bloolb  .reverse()?      0, str.length/2 ==>      str.length/2, str.length
+gasag.length => odd or even
+
+function isPalindrome (string)
+//divide the string in two ==> slice()
+//reverse one half somehow ==> split(). reverse()
+//return whether they are even or not
+
+// - A function that reverses a given string
+//make it into array
+//reverse the array
+//stitch it back into a string
+
+
+// - A function that capitalizes the first letter of every "word" in a dting
+
+
+// - A function that returns an object with a key for each letter in a string,
+//   and the quantity of that character as that key's value
+
+
+// - A function that console logs the numbers
+//   from 1 to n. But for multiples of three print
+//   "fizz" instead of the number and for the multiples
+//   of five print "buzz". For numbers which are multiples
+//   of both three and five print "fizzbuzz".
